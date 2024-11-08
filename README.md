@@ -1,11 +1,9 @@
 ## IPL Performance Dashboard
 
-Click the link to view the interactive dashboard: 
-## Complete Cricket Analytics:Batting, Bowling, Fielding 
+Click the link to view the interactive dashboard: ** Complete Cricket Analytics:Batting, Bowling, Fielding 
 [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=803f0cdc-a545-4b6d-a6ea-ce91aa0d4013&autoAuth=true&ctid=b637c4f6-57b7-44dc-bce4-fec0cd202460)
 
-Click the link to view the interactive dashboard: 
-## An Interactive Dashboard of IPL Teams
+Click the link to view the interactive dashboard: ** An Interactive Dashboard of IPL Teams
 [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=d0d2c8d6-2c4f-438b-8a47-e6eb4210ee79&autoAuth=true&ctid=b637c4f6-57b7-44dc-bce4-fec0cd202460).
 
 ## Title
